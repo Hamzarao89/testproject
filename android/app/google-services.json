@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358470046858",
+    "project_id": "pluksfacebook",
+    "storage_bucket": "pluksfacebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358470046858:android:46b3ba7f84287580d5c973",
+        "android_client_info": {
+          "package_name": "com.example.syntech1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358470046858-8am3lno9n3sf5u33vq9bqv7ft8dm9q0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syntech1",
+            "certificate_hash": "064b5644e9eb05ed8c3d7fcb1d4441ec12144d91"
+          }
+        },
+        {
+          "client_id": "358470046858-32f8ast5pehdiif931rkoe434pv9674m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlHDTQeU2nZ2MoD5cMCPpFED79AsRL4rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358470046858-32f8ast5pehdiif931rkoe434pv9674m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

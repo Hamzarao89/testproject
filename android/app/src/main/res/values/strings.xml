@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">syntech1</string>
+    <string name="facebook_app_id">3016852121955642</string>
+    <string name="fb_login_protocol_scheme">fb3016852121955642</string>
+    <string name="facebook_client_token">8bdc2c58fc856c55cbed3f2fef258999</string>
+</resources>
